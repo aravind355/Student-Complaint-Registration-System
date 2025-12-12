@@ -8,7 +8,7 @@ PROJECT TITLE: SCIS Student Complaint Registration System
 PURPOSE OF PROJECT:
 VERSION or DATE:
 HOW TO START THIS PROJECT:
-AUTHORS: 23MCCE11
+AUTHORS: 
 USER INSTRUCTIONS:
 
 # SCIS Student Complaint Registration System
