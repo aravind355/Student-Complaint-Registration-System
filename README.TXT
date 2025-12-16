@@ -9,7 +9,7 @@ USER INSTRUCTIONS:
 
 ## Project Overview
 
-This is a text-based Java application developed as a mini-project for students at the University of Hyderabad (UoH), School of Computer and Information Sciences (SCIS). It allows students to **register complaints**, track them, and enables **admins and faculty** to manage and resolve them.
+This is a text-based Java application It allows students to **register complaints**, track them, and enables **admins and faculty** to manage and resolve them.
 
 ---
 
